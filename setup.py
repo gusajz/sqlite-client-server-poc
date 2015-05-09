@@ -11,7 +11,7 @@ setup(
     # Your name & email here
     author='',
     author_email='',
-    # If you had sqlite_serverr.tests, you would also include that in this list
+    # If you had sqlite_server.tests, you would also include that in this list
     packages=find_packages(),
     # Any executable scripts, typically in 'bin'. E.g 'bin/do-something.py'
     scripts=[],

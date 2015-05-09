@@ -1,4 +1,4 @@
-Change-log for sqlite_serverr.
+Change-log for sqlite_server.
 
 This file will be added to as part of each release
 
