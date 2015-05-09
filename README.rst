@@ -14,7 +14,8 @@ Installation
 
 Installation using pip::
 
-    pip install sqlite_server
+    python setup.py install
+    #pip install sqlite_server
 
 Usage
 -----
